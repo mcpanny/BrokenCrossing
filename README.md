@@ -3,10 +3,10 @@
 Welcome to Broken Crossing!
 
 There are 5 keys you need to know:
-ESC 	- exit game
-UP 	- move up
-DOWN 	- move down
-LEFT 	- move left
+ESC 	  - exit game
+UP 	    - move up
+DOWN 	  - move down
+LEFT 	  - move left
 RIGHT 	- move right
 
 OBJECTIVE:
@@ -16,6 +16,6 @@ ITEMS:
 Items will spawn randomly and are hidden in envelopes. To activate an item, simply step on the grid with the envelope.
 
 POTENTIAL ITEMS:
-Heart 		- Adds health
+Heart 		      - Adds health
 Green Poision 	- Deducts health
-Sword 		- Increases damage
+Sword 		      - Increases damage
